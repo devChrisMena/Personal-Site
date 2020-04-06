@@ -18,6 +18,7 @@ h2 {
   color: #66BFBF;
   font-family: "Montserrat", sans-serif;
   font-size: 1.563rem;
+  padding-top: 1rem;
 }
 
 h3 {
@@ -125,4 +126,8 @@ hr {
 
 .btn {
   margin: 1.563rem auto;
+ }
+
+ .footer-link {
+   padding: 0.25rem;
  }
